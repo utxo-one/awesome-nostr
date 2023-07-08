@@ -49,7 +49,7 @@ of the public instances.
 - [strfry](https://github.com/hoytech/strfry)![stars](https://img.shields.io/github/stars/hoytech/strfry.svg?style=social) – C++ implementation backed by LMDB with efficient syncing of events using merkle trees
 - [Notra](https://github.com/lontivero/Nostra)![stars](https://img.shields.io/github/stars/lontivero/nostra.svg?style=social) - F# implementation backed by SQLite database.
 - [Nerostr](https://codeberg.org/pluja/nerostr) - A Nostr expensive relay paid with Monero and written in Go
-- [Nostr client and relay](https://github.com/pedro-vicente/nostr_client_relay) -  A Nostr protocol implementation of a client and relay in C++ 
+- [Nostr client and relay](https://github.com/pedro-vicente/nostr_client_relay) -  A Nostr protocol implementation of a client and relay in C++
 
 ### Instances
 
@@ -58,6 +58,12 @@ them:
 
 - [nostr.info](https://nostr.info/) - real-time checking of status of some known relays
 - [nostr.watch](https://nostr.watch) - real-time checking of status of some known relays
+
+### Relay as a Service
+
+Relay-as-a-Service providers give you an easy way to backup all your notes and support the decentralization of the protocol:
+
+= [relaying.io](https://relaying.io) - launch a private relay in one click
 
 ## Clients
 
